@@ -1,3 +1,4 @@
+// script.js
 const quotes = [
  "The only way to do great work is to love what you do. – Steve Jobs",
   
@@ -30,3 +31,7 @@ function displayQuote() {
 
 // Add click event listener to button
 newQuoteBtn.addEventListener('click', displayQuote);
+
+// ------------------------------------------------------
+//------------------@CodeSafeZone------------------------
+
